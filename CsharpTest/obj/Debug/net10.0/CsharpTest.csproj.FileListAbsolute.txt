@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C++\CsharpTest\bin\Debug\net10.0\CsharpTest.exe
+C:\Users\user\Desktop\C++\CsharpTest\bin\Debug\net10.0\CsharpTest.deps.json
+C:\Users\user\Desktop\C++\CsharpTest\bin\Debug\net10.0\CsharpTest.runtimeconfig.json
+C:\Users\user\Desktop\C++\CsharpTest\bin\Debug\net10.0\CsharpTest.dll
+C:\Users\user\Desktop\C++\CsharpTest\bin\Debug\net10.0\CsharpTest.pdb
+C:\Users\user\Desktop\C++\CsharpTest\obj\Debug\net10.0\CsharpTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C++\CsharpTest\obj\Debug\net10.0\CsharpTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C++\CsharpTest\obj\Debug\net10.0\CsharpTest.AssemblyInfo.cs
+C:\Users\user\Desktop\C++\CsharpTest\obj\Debug\net10.0\CsharpTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C++\CsharpTest\obj\Debug\net10.0\CsharpTest.dll
+C:\Users\user\Desktop\C++\CsharpTest\obj\Debug\net10.0\refint\CsharpTest.dll
+C:\Users\user\Desktop\C++\CsharpTest\obj\Debug\net10.0\CsharpTest.pdb
+C:\Users\user\Desktop\C++\CsharpTest\obj\Debug\net10.0\CsharpTest.genruntimeconfig.cache
+C:\Users\user\Desktop\C++\CsharpTest\obj\Debug\net10.0\ref\CsharpTest.dll

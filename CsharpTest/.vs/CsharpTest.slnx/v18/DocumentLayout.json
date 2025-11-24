@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\CsharpTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{278AFEB7-406F-4AF7-AEBD-6295567E9A49}|CsharpTest.csproj|c:\\users\\user\\desktop\\c\u002B\u002B\\csharptest\\entity\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278AFEB7-406F-4AF7-AEBD-6295567E9A49}|CsharpTest.csproj|solutionrelative:entity\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278AFEB7-406F-4AF7-AEBD-6295567E9A49}|CsharpTest.csproj|c:\\users\\user\\desktop\\c\u002B\u002B\\csharptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278AFEB7-406F-4AF7-AEBD-6295567E9A49}|CsharpTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\CsharpTest\\Entity\\Animal.cs",
+              "RelativeDocumentMoniker": "Entity\\Animal.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\CsharpTest\\Entity\\Animal.cs",
+              "RelativeToolTip": "Entity\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:57:23.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\CsharpTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\CsharpTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:56:10.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
