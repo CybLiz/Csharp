@@ -1,0 +1,12 @@
+# Fichiers Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Logs
+*.log

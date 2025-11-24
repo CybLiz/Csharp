@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chaise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ba061bd1a70def5168c4ff7e47b573e58418ecb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chaise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chaise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
