@@ -20,7 +20,7 @@ namespace CompteBancaire.Classes
             if (amount > 0)
             {
                 Balance += amount;
-                Operations.Add(new Operations("Deposit", amount, DateTime.Now));
+                Operations.Add(new Operations(OperationType.Deposit, amount));
             }
 
         }
@@ -28,7 +28,7 @@ namespace CompteBancaire.Classes
             if (amount > 0 && amount <= Balance)
             {
                 Balance -= amount;
-                Operations.Add(new Operations("Withdraw", amount, DateTime.Now));
+                Operations.Add(new Operations(OperationType.Withdrawal, amount));
                 return true;
             }
             return false;

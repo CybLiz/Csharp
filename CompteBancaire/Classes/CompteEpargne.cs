@@ -14,7 +14,7 @@ namespace CompteBancaire.Classes
         {
             double interest = Balance * InterestRate;
             Balance += interest;
-            Operations.Add(new Operations("Interest", interest, DateTime.Now));
+            Operations.Add(new Operations(OperationType.Deposit, interest));
         }
         public override string ToString()
         {
