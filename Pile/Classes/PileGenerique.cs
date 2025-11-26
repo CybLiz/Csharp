@@ -44,7 +44,10 @@ namespace Pile.Classes
             count--;
             return element;
         }
-       
+        public override string ToString()
+        {
+            return base.ToString();
+        }
 
     }
 }
