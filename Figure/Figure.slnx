@@ -1,4 +1,9 @@
 <Solution>
+  <Folder Name="/TestSqlServer/">
+    <File Path="bases.sql" />
+    <File Path="dogsAndOwners.sql" />
+    <File Path="sqlBases.md" />
+  </Folder>
   <Project Path="../Pile/Pile.csproj" />
   <Project Path="Figure.csproj" />
 </Solution>
